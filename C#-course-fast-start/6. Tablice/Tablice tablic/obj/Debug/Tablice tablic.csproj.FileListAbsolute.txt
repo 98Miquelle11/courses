@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice tablic\bin\Debug\Tablice tablic.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice tablic\bin\Debug\Tablice tablic.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice tablic\bin\Debug\Tablice tablic.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice tablic\obj\Debug\Tablice tablic.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice tablic\obj\Debug\Tablice tablic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice tablic\obj\Debug\Tablice tablic.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice tablic\obj\Debug\Tablice tablic.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice tablic\obj\Debug\Tablice tablic.pdb
