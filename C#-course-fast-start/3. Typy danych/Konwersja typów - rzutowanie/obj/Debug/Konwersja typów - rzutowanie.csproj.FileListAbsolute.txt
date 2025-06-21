@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Konwersja typów - rzutowanie\bin\Debug\Konwersja typów - rzutowanie.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Konwersja typów - rzutowanie\bin\Debug\Konwersja typów - rzutowanie.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Konwersja typów - rzutowanie\bin\Debug\Konwersja typów - rzutowanie.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Konwersja typów - rzutowanie\obj\Debug\Konwersja typów - rzutowanie.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Konwersja typów - rzutowanie\obj\Debug\Konwersja typów - rzutowanie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Konwersja typów - rzutowanie\obj\Debug\Konwersja typów - rzutowanie.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Konwersja typów - rzutowanie\obj\Debug\Konwersja typów - rzutowanie.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Konwersja typów - rzutowanie\obj\Debug\Konwersja typów - rzutowanie.pdb
