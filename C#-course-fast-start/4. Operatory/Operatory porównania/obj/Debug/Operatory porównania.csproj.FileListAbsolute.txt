@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory porównania\bin\Debug\Operatory porównania.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory porównania\bin\Debug\Operatory porównania.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory porównania\bin\Debug\Operatory porównania.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory porównania\obj\Debug\Operatory porównania.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory porównania\obj\Debug\Operatory porównania.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory porównania\obj\Debug\Operatory porównania.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory porównania\obj\Debug\Operatory porównania.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory porównania\obj\Debug\Operatory porównania.pdb
