@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Średnia arytmetyczna - praktyka\bin\Debug\Średnia arytmetyczna - praktyka.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Średnia arytmetyczna - praktyka\bin\Debug\Średnia arytmetyczna - praktyka.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Średnia arytmetyczna - praktyka\bin\Debug\Średnia arytmetyczna - praktyka.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Średnia arytmetyczna - praktyka\obj\Debug\Średnia arytmetyczna - praktyka.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Średnia arytmetyczna - praktyka\obj\Debug\Średnia arytmetyczna - praktyka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Średnia arytmetyczna - praktyka\obj\Debug\Średnia arytmetyczna - praktyka.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Średnia arytmetyczna - praktyka\obj\Debug\Średnia arytmetyczna - praktyka.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Średnia arytmetyczna - praktyka\obj\Debug\Średnia arytmetyczna - praktyka.pdb

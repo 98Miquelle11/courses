@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Skrócone wyrażenie rachunkowe\bin\Debug\Skrócone wyrażenie rachunkowe.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Skrócone wyrażenie rachunkowe\bin\Debug\Skrócone wyrażenie rachunkowe.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Skrócone wyrażenie rachunkowe\bin\Debug\Skrócone wyrażenie rachunkowe.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Skrócone wyrażenie rachunkowe\obj\Debug\Skrócone wyrażenie rachunkowe.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Skrócone wyrażenie rachunkowe\obj\Debug\Skrócone wyrażenie rachunkowe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Skrócone wyrażenie rachunkowe\obj\Debug\Skrócone wyrażenie rachunkowe.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Skrócone wyrażenie rachunkowe\obj\Debug\Skrócone wyrażenie rachunkowe.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Skrócone wyrażenie rachunkowe\obj\Debug\Skrócone wyrażenie rachunkowe.pdb
