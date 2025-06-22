@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Typ wyliczeniowy (enum)\bin\Debug\Typ wyliczeniowy (enum).exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Typ wyliczeniowy (enum)\bin\Debug\Typ wyliczeniowy (enum).exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Typ wyliczeniowy (enum)\bin\Debug\Typ wyliczeniowy (enum).pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Typ wyliczeniowy (enum)\obj\Debug\Typ wyliczeniowy (enum).csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Typ wyliczeniowy (enum)\obj\Debug\Typ wyliczeniowy (enum).csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Typ wyliczeniowy (enum)\obj\Debug\Typ wyliczeniowy (enum).csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Typ wyliczeniowy (enum)\obj\Debug\Typ wyliczeniowy (enum).exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Typ wyliczeniowy (enum)\obj\Debug\Typ wyliczeniowy (enum).pdb
