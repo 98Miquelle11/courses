@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Dziedziczenie - konstruktory\bin\Debug\Dziedziczenie - konstruktory.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Dziedziczenie - konstruktory\bin\Debug\Dziedziczenie - konstruktory.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Dziedziczenie - konstruktory\bin\Debug\Dziedziczenie - konstruktory.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Dziedziczenie - konstruktory\obj\Debug\Dziedziczenie - konstruktory.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Dziedziczenie - konstruktory\obj\Debug\Dziedziczenie - konstruktory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Dziedziczenie - konstruktory\obj\Debug\Dziedziczenie - konstruktory.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Dziedziczenie - konstruktory\obj\Debug\Dziedziczenie - konstruktory.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Dziedziczenie - konstruktory\obj\Debug\Dziedziczenie - konstruktory.pdb
