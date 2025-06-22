@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metoda ToString\bin\Debug\Metoda ToString.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metoda ToString\bin\Debug\Metoda ToString.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metoda ToString\bin\Debug\Metoda ToString.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metoda ToString\obj\Debug\Metoda ToString.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metoda ToString\obj\Debug\Metoda ToString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metoda ToString\obj\Debug\Metoda ToString.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metoda ToString\obj\Debug\Metoda ToString.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metoda ToString\obj\Debug\Metoda ToString.pdb
