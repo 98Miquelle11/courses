@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyrażenie lambda\bin\Debug\Wyrażenie lambda.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyrażenie lambda\bin\Debug\Wyrażenie lambda.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyrażenie lambda\bin\Debug\Wyrażenie lambda.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyrażenie lambda\obj\Debug\Wyrażenie lambda.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyrażenie lambda\obj\Debug\Wyrażenie lambda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyrażenie lambda\obj\Debug\Wyrażenie lambda.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyrażenie lambda\obj\Debug\Wyrażenie lambda.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyrażenie lambda\obj\Debug\Wyrażenie lambda.pdb
