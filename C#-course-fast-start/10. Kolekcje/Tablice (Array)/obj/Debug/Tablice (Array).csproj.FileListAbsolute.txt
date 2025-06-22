@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\Tablice (Array)\bin\Debug\Tablice (Array).exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\Tablice (Array)\bin\Debug\Tablice (Array).exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\Tablice (Array)\bin\Debug\Tablice (Array).pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\Tablice (Array)\obj\Debug\Tablice (Array).csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\Tablice (Array)\obj\Debug\Tablice (Array).csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\Tablice (Array)\obj\Debug\Tablice (Array).csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\Tablice (Array)\obj\Debug\Tablice (Array).exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\Tablice (Array)\obj\Debug\Tablice (Array).pdb
