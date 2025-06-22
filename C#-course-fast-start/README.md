@@ -74,3 +74,26 @@
 * Static,
 * Enum.
 
+### 9. Other issues
+* Equal vs ==,
+* Linq - practice,
+* Method as other method's argument,
+* ToString method,
+* Anonymous method (delegates),
+* Regions,
+* Structs,
+* Multithreading,
+* Exceptions - try, catch,
+* Exceptions - own exceptions,
+* Lambda.
+
+### 10. Collections
+* Dictionary,
+* HashSet,
+* List,
+* Queue,
+* SortedList,
+* SortedSet,
+* Collection Sort,
+* Stack,
+* Arrays.
