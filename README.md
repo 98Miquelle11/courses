@@ -1,1 +1,1 @@
-# my-courses
+# Courses' paths and their certificates.
