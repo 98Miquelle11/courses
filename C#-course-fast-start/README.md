@@ -26,7 +26,7 @@
 
 ### 5. Control instructions
 * Do While,
-* Elsfe if,
+* Else if,
 * For,
 * Foreach,
 * Goto,
@@ -37,3 +37,40 @@
 * Arithmetic mean - practice,
 * Switch,
 * While.
+
+### 6. Arrays
+* One - dimensional arrays,
+* Multi - dimensional arrays,
+* Arrays of arrays,
+* Simple game - practice.
+
+### 7. Functions (methods)
+* Called arguments,
+* Functions - arguments,
+* No-argument functions,
+* Out,
+* Params,
+* Ref and out,
+* Recursion,
+* Default values,
+* Returning a value,
+* Overloading function name.
+
+### 8. Object-oriented programming
+* Abstract,
+* Inheritance - beginning,
+* Inheritance - constructors,
+* Encapsulation,
+* Indexers,
+* is and as,
+* Interfaces,
+* Classes and objects,
+* Constructor,
+* Access modifiers,
+* Polymorphism (virtual),
+* Operators overloading,
+* Readonly,
+* Sealed,
+* Static,
+* Enum.
+
