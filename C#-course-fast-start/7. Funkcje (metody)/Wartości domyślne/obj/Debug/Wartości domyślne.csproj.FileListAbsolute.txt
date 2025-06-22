@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Wartości domyślne\bin\Debug\Wartości domyślne.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Wartości domyślne\bin\Debug\Wartości domyślne.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Wartości domyślne\bin\Debug\Wartości domyślne.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Wartości domyślne\obj\Debug\Wartości domyślne.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Wartości domyślne\obj\Debug\Wartości domyślne.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Wartości domyślne\obj\Debug\Wartości domyślne.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Wartości domyślne\obj\Debug\Wartości domyślne.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Wartości domyślne\obj\Debug\Wartości domyślne.pdb
