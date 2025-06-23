@@ -1,7 +1,7 @@
 # [C# Course - Fast Start (Programming for Beginners)](https://eduj.pl/produkt/kurs_csharp_szybki_start_programowanie_dla_poczatkujacych)
 
 ## Tech stack
-* C#,
+* C# version 10,
 * .NET 9.0,
 * Visual Studio 2022.
 
