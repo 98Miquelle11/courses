@@ -1,4 +1,11 @@
-# Course materials:
+# C# Course - Fast Start (Programming for Beginners)
+
+## Tech stack:
+* C#,
+* .NET 9.0,
+* Visual Studio 2022.
+
+## Course materials:
 
 ### 1. Visual Studio Environment
 * First programm.
