@@ -105,5 +105,4 @@
 * Stack,
 * Arrays.
 
-### 11. Final project
-[Here](https://github.com/98Miquelle11/superheroes)
+### 11. Final project - [Here](https://github.com/98Miquelle11/superheroes)
