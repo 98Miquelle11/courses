@@ -1,1 +1,1 @@
-
+Entire course progress is placed [here](https://github.com/98Miquelle11/my-certificates/tree/main/CCST%20(Cisco%20Certified%20Support%20%20Technicians)/Junior%20Cybersecurity%20Analyst%20Career%20Path).
