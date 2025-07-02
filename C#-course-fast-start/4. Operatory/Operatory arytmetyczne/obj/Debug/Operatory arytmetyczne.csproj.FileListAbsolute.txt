@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory arytmetyczne\obj\Debug\Operatory arytmetyczne.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory arytmetyczne\obj\Debug\Operatory arytmetyczne.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory arytmetyczne\obj\Debug\Operatory arytmetyczne.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory arytmetyczne\bin\Debug\Operatory arytmetyczne.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory arytmetyczne\bin\Debug\Operatory arytmetyczne.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory arytmetyczne\bin\Debug\Operatory arytmetyczne.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory arytmetyczne\obj\Debug\Operatory arytmetyczne.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory arytmetyczne\obj\Debug\Operatory arytmetyczne.pdb

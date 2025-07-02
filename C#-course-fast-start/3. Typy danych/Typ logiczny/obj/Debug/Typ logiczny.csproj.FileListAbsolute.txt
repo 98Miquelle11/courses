@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ logiczny\bin\Debug\Typ logiczny.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ logiczny\bin\Debug\Typ logiczny.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ logiczny\bin\Debug\Typ logiczny.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ logiczny\obj\Debug\Typ logiczny.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ logiczny\obj\Debug\Typ logiczny.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ logiczny\obj\Debug\Typ logiczny.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ logiczny\obj\Debug\Typ logiczny.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ logiczny\obj\Debug\Typ logiczny.pdb

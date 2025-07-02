@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyjątki - try, catch\bin\Debug\Wyjątki - try, catch.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyjątki - try, catch\bin\Debug\Wyjątki - try, catch.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyjątki - try, catch\bin\Debug\Wyjątki - try, catch.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyjątki - try, catch\obj\Debug\Wyjątki - try, catch.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyjątki - try, catch\obj\Debug\Wyjątki - try, catch.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyjątki - try, catch\obj\Debug\Wyjątki - try, catch.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyjątki - try, catch\obj\Debug\Wyjątki - try, catch.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyjątki - try, catch\obj\Debug\Wyjątki - try, catch.pdb

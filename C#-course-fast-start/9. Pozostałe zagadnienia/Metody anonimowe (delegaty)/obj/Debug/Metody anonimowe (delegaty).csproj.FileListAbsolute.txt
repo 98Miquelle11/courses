@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metody anonimowe (delegaty)\bin\Debug\Metody anonimowe (delegaty).exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metody anonimowe (delegaty)\bin\Debug\Metody anonimowe (delegaty).exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metody anonimowe (delegaty)\bin\Debug\Metody anonimowe (delegaty).pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metody anonimowe (delegaty)\obj\Debug\Metody anonimowe (delegaty).csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metody anonimowe (delegaty)\obj\Debug\Metody anonimowe (delegaty).csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metody anonimowe (delegaty)\obj\Debug\Metody anonimowe (delegaty).csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metody anonimowe (delegaty)\obj\Debug\Metody anonimowe (delegaty).exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metody anonimowe (delegaty)\obj\Debug\Metody anonimowe (delegaty).pdb

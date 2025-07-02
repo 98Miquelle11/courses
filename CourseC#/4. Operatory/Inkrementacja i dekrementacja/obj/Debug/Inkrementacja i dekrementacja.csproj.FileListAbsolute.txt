@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Inkrementacja i dekrementacja\obj\Debug\Inkrementacja i dekrementacja.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Inkrementacja i dekrementacja\obj\Debug\Inkrementacja i dekrementacja.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Inkrementacja i dekrementacja\obj\Debug\Inkrementacja i dekrementacja.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Inkrementacja i dekrementacja\bin\Debug\Inkrementacja i dekrementacja.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Inkrementacja i dekrementacja\bin\Debug\Inkrementacja i dekrementacja.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Inkrementacja i dekrementacja\bin\Debug\Inkrementacja i dekrementacja.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Inkrementacja i dekrementacja\obj\Debug\Inkrementacja i dekrementacja.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Inkrementacja i dekrementacja\obj\Debug\Inkrementacja i dekrementacja.pdb

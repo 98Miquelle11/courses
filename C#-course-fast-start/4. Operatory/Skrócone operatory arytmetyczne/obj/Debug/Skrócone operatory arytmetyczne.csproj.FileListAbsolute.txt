@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Skrócone operatory arytmetyczne\bin\Debug\Skrócone operatory arytmetyczne.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Skrócone operatory arytmetyczne\bin\Debug\Skrócone operatory arytmetyczne.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Skrócone operatory arytmetyczne\bin\Debug\Skrócone operatory arytmetyczne.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Skrócone operatory arytmetyczne\obj\Debug\Skrócone operatory arytmetyczne.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Skrócone operatory arytmetyczne\obj\Debug\Skrócone operatory arytmetyczne.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Skrócone operatory arytmetyczne\obj\Debug\Skrócone operatory arytmetyczne.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Skrócone operatory arytmetyczne\obj\Debug\Skrócone operatory arytmetyczne.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Skrócone operatory arytmetyczne\obj\Debug\Skrócone operatory arytmetyczne.pdb

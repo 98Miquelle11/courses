@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Out\bin\Debug\Out.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Out\bin\Debug\Out.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Out\bin\Debug\Out.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Out\obj\Debug\Out.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Out\obj\Debug\Out.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Out\obj\Debug\Out.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Out\obj\Debug\Out.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Out\obj\Debug\Out.pdb

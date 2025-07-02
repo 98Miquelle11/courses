@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Przeciążanie operatorów\bin\Debug\Przeciążanie operatorów.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Przeciążanie operatorów\bin\Debug\Przeciążanie operatorów.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Przeciążanie operatorów\bin\Debug\Przeciążanie operatorów.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Przeciążanie operatorów\obj\Debug\Przeciążanie operatorów.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Przeciążanie operatorów\obj\Debug\Przeciążanie operatorów.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Przeciążanie operatorów\obj\Debug\Przeciążanie operatorów.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Przeciążanie operatorów\obj\Debug\Przeciążanie operatorów.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Przeciążanie operatorów\obj\Debug\Przeciążanie operatorów.pdb

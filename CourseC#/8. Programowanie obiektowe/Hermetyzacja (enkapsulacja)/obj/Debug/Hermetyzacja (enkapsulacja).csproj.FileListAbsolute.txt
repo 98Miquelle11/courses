@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Hermetyzacja (enkapsulacja)\bin\Debug\Hermetyzacja (enkapsulacja).exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Hermetyzacja (enkapsulacja)\bin\Debug\Hermetyzacja (enkapsulacja).exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Hermetyzacja (enkapsulacja)\bin\Debug\Hermetyzacja (enkapsulacja).pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Hermetyzacja (enkapsulacja)\obj\Debug\Hermetyzacja (enkapsulacja).csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Hermetyzacja (enkapsulacja)\obj\Debug\Hermetyzacja (enkapsulacja).csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Hermetyzacja (enkapsulacja)\obj\Debug\Hermetyzacja (enkapsulacja).csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Hermetyzacja (enkapsulacja)\obj\Debug\Hermetyzacja (enkapsulacja).exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Hermetyzacja (enkapsulacja)\obj\Debug\Hermetyzacja (enkapsulacja).pdb

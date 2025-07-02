@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Konwersja typów - parsowanie\bin\Debug\Konwersja typów - parsowanie.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Konwersja typów - parsowanie\bin\Debug\Konwersja typów - parsowanie.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Konwersja typów - parsowanie\bin\Debug\Konwersja typów - parsowanie.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Konwersja typów - parsowanie\obj\Debug\Konwersja typów - parsowanie.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Konwersja typów - parsowanie\obj\Debug\Konwersja typów - parsowanie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Konwersja typów - parsowanie\obj\Debug\Konwersja typów - parsowanie.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Konwersja typów - parsowanie\obj\Debug\Konwersja typów - parsowanie.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Konwersja typów - parsowanie\obj\Debug\Konwersja typów - parsowanie.pdb

@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Instrukcje skoku - break, continue\bin\Debug\Instrukcje skoku - break, continue.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Instrukcje skoku - break, continue\bin\Debug\Instrukcje skoku - break, continue.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Instrukcje skoku - break, continue\bin\Debug\Instrukcje skoku - break, continue.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Instrukcje skoku - break, continue\obj\Debug\Instrukcje skoku - break, continue.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Instrukcje skoku - break, continue\obj\Debug\Instrukcje skoku - break, continue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Instrukcje skoku - break, continue\obj\Debug\Instrukcje skoku - break, continue.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Instrukcje skoku - break, continue\obj\Debug\Instrukcje skoku - break, continue.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Instrukcje skoku - break, continue\obj\Debug\Instrukcje skoku - break, continue.pdb

@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\is oraz as\bin\Debug\is oraz as.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\is oraz as\bin\Debug\is oraz as.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\is oraz as\bin\Debug\is oraz as.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\is oraz as\obj\Debug\is oraz as.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\is oraz as\obj\Debug\is oraz as.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\is oraz as\obj\Debug\is oraz as.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\is oraz as\obj\Debug\is oraz as.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\is oraz as\obj\Debug\is oraz as.pdb

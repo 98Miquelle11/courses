@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Abstract\obj\Debug\Abstract.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Abstract\bin\Debug\Abstract.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Abstract\bin\Debug\Abstract.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Abstract\bin\Debug\Abstract.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Abstract\obj\Debug\Abstract.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Abstract\obj\Debug\Abstract.pdb

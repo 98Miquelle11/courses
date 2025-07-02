@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ całkowitozmiennoliczbowy\bin\Debug\Typ całkowitozmiennoliczbowy.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ całkowitozmiennoliczbowy\bin\Debug\Typ całkowitozmiennoliczbowy.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ całkowitozmiennoliczbowy\bin\Debug\Typ całkowitozmiennoliczbowy.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ całkowitozmiennoliczbowy\obj\Debug\Typ całkowitozmiennoliczbowy.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ całkowitozmiennoliczbowy\obj\Debug\Typ całkowitozmiennoliczbowy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ całkowitozmiennoliczbowy\obj\Debug\Typ całkowitozmiennoliczbowy.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ całkowitozmiennoliczbowy\obj\Debug\Typ całkowitozmiennoliczbowy.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ całkowitozmiennoliczbowy\obj\Debug\Typ całkowitozmiennoliczbowy.pdb

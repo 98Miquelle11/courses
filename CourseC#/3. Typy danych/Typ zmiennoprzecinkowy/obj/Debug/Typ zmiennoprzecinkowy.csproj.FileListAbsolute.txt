@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ zmiennoprzecinkowy\bin\Debug\Typ zmiennoprzecinkowy.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ zmiennoprzecinkowy\bin\Debug\Typ zmiennoprzecinkowy.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ zmiennoprzecinkowy\bin\Debug\Typ zmiennoprzecinkowy.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ zmiennoprzecinkowy\obj\Debug\Typ zmiennoprzecinkowy.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ zmiennoprzecinkowy\obj\Debug\Typ zmiennoprzecinkowy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ zmiennoprzecinkowy\obj\Debug\Typ zmiennoprzecinkowy.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ zmiennoprzecinkowy\obj\Debug\Typ zmiennoprzecinkowy.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ zmiennoprzecinkowy\obj\Debug\Typ zmiennoprzecinkowy.pdb

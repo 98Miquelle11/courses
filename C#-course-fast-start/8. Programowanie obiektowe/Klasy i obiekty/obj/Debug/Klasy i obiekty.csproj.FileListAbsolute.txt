@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Klasy i obiekty\bin\Debug\Klasy i obiekty.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Klasy i obiekty\bin\Debug\Klasy i obiekty.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Klasy i obiekty\bin\Debug\Klasy i obiekty.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Klasy i obiekty\obj\Debug\Klasy i obiekty.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Klasy i obiekty\obj\Debug\Klasy i obiekty.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Klasy i obiekty\obj\Debug\Klasy i obiekty.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Klasy i obiekty\obj\Debug\Klasy i obiekty.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Klasy i obiekty\obj\Debug\Klasy i obiekty.pdb

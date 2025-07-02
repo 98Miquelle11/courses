@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Polimorfizm (virtual)\bin\Debug\Polimorfizm (virtual).exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Polimorfizm (virtual)\bin\Debug\Polimorfizm (virtual).exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Polimorfizm (virtual)\bin\Debug\Polimorfizm (virtual).pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Polimorfizm (virtual)\obj\Debug\Polimorfizm (virtual).csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Polimorfizm (virtual)\obj\Debug\Polimorfizm (virtual).csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Polimorfizm (virtual)\obj\Debug\Polimorfizm (virtual).csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Polimorfizm (virtual)\obj\Debug\Polimorfizm (virtual).exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Polimorfizm (virtual)\obj\Debug\Polimorfizm (virtual).pdb

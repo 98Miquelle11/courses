@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Rekurencja\bin\Debug\Rekurencja.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Rekurencja\bin\Debug\Rekurencja.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Rekurencja\bin\Debug\Rekurencja.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Rekurencja\obj\Debug\Rekurencja.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Rekurencja\obj\Debug\Rekurencja.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Rekurencja\obj\Debug\Rekurencja.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Rekurencja\obj\Debug\Rekurencja.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Rekurencja\obj\Debug\Rekurencja.pdb

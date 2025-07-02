@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Funkcje - argumenty\bin\Debug\Funkcje - argumenty.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Funkcje - argumenty\bin\Debug\Funkcje - argumenty.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Funkcje - argumenty\bin\Debug\Funkcje - argumenty.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Funkcje - argumenty\obj\Debug\Funkcje - argumenty.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Funkcje - argumenty\obj\Debug\Funkcje - argumenty.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Funkcje - argumenty\obj\Debug\Funkcje - argumenty.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Funkcje - argumenty\obj\Debug\Funkcje - argumenty.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Funkcje - argumenty\obj\Debug\Funkcje - argumenty.pdb

@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Readonly\bin\Debug\Readonly.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Readonly\bin\Debug\Readonly.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Readonly\bin\Debug\Readonly.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Readonly\obj\Debug\Readonly.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Readonly\obj\Debug\Readonly.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Readonly\obj\Debug\Readonly.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Readonly\obj\Debug\Readonly.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Readonly\obj\Debug\Readonly.pdb

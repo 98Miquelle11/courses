@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Linq - praktyka\bin\Debug\Linq - praktyka.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Linq - praktyka\bin\Debug\Linq - praktyka.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Linq - praktyka\bin\Debug\Linq - praktyka.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Linq - praktyka\obj\Debug\Linq - praktyka.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Linq - praktyka\obj\Debug\Linq - praktyka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Linq - praktyka\obj\Debug\Linq - praktyka.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Linq - praktyka\obj\Debug\Linq - praktyka.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Linq - praktyka\obj\Debug\Linq - praktyka.pdb

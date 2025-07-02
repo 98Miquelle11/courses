@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\ForEach\bin\Debug\ForEach.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\ForEach\bin\Debug\ForEach.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\ForEach\bin\Debug\ForEach.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\ForEach\obj\Debug\ForEach.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\ForEach\obj\Debug\ForEach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\ForEach\obj\Debug\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\ForEach\obj\Debug\ForEach.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\ForEach\obj\Debug\ForEach.pdb

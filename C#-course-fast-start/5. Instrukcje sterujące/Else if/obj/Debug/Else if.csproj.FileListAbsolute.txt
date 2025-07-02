@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Else if\obj\Debug\Else if.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Else if\obj\Debug\Else if.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Else if\obj\Debug\Else if.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Else if\bin\Debug\Else if.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Else if\bin\Debug\Else if.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Else if\bin\Debug\Else if.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Else if\obj\Debug\Else if.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\5. Instrukcje sterujące\Else if\obj\Debug\Else if.pdb

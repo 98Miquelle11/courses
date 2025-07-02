@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Params\bin\Debug\Params.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Params\bin\Debug\Params.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Params\bin\Debug\Params.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Params\obj\Debug\Params.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Params\obj\Debug\Params.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Params\obj\Debug\Params.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Params\obj\Debug\Params.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Params\obj\Debug\Params.pdb

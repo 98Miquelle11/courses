@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice jednowymiarowe\bin\Debug\Tablice jednowymiarowe.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice jednowymiarowe\bin\Debug\Tablice jednowymiarowe.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice jednowymiarowe\bin\Debug\Tablice jednowymiarowe.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice jednowymiarowe\obj\Debug\Tablice jednowymiarowe.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice jednowymiarowe\obj\Debug\Tablice jednowymiarowe.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice jednowymiarowe\obj\Debug\Tablice jednowymiarowe.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice jednowymiarowe\obj\Debug\Tablice jednowymiarowe.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice jednowymiarowe\obj\Debug\Tablice jednowymiarowe.pdb

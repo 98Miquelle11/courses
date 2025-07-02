@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\SortedSet\bin\Debug\SortedSet.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\SortedSet\bin\Debug\SortedSet.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\SortedSet\bin\Debug\SortedSet.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\SortedSet\obj\Debug\HashSet i SortedSet.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\SortedSet\obj\Debug\HashSet i SortedSet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\SortedSet\obj\Debug\HashSet i SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\SortedSet\obj\Debug\SortedSet.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\SortedSet\obj\Debug\SortedSet.pdb

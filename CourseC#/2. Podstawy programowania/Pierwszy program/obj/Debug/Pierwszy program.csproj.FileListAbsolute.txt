@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\2. Podstawy programowania\Pierwszy program\bin\Debug\Pierwszy program.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\2. Podstawy programowania\Pierwszy program\bin\Debug\Pierwszy program.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\2. Podstawy programowania\Pierwszy program\bin\Debug\Pierwszy program.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\2. Podstawy programowania\Pierwszy program\obj\Debug\Pierwszy program.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\2. Podstawy programowania\Pierwszy program\obj\Debug\Pierwszy program.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\2. Podstawy programowania\Pierwszy program\obj\Debug\Pierwszy program.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\2. Podstawy programowania\Pierwszy program\obj\Debug\Pierwszy program.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\2. Podstawy programowania\Pierwszy program\obj\Debug\Pierwszy program.pdb

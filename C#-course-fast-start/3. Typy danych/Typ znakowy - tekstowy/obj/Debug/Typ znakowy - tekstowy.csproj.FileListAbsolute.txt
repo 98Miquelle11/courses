@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ znakowy - tekstowy\obj\Debug\Typ znakowy - tekstowy.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ znakowy - tekstowy\obj\Debug\Typ znakowy - tekstowy.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ znakowy - tekstowy\obj\Debug\Typ znakowy - tekstowy.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ znakowy - tekstowy\bin\Debug\Typ znakowy - tekstowy.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ znakowy - tekstowy\bin\Debug\Typ znakowy - tekstowy.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ znakowy - tekstowy\bin\Debug\Typ znakowy - tekstowy.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ znakowy - tekstowy\obj\Debug\Typ znakowy - tekstowy.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\3. Typy danych\Typ znakowy - tekstowy\obj\Debug\Typ znakowy - tekstowy.pdb

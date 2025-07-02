@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Funkcje bezargumentowe\bin\Debug\Funkcje bezargumentowe.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Funkcje bezargumentowe\bin\Debug\Funkcje bezargumentowe.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Funkcje bezargumentowe\bin\Debug\Funkcje bezargumentowe.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Funkcje bezargumentowe\obj\Debug\Funkcje bezargumentowe.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Funkcje bezargumentowe\obj\Debug\Funkcje bezargumentowe.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Funkcje bezargumentowe\obj\Debug\Funkcje bezargumentowe.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Funkcje bezargumentowe\obj\Debug\Funkcje bezargumentowe.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Funkcje bezargumentowe\obj\Debug\Funkcje bezargumentowe.pdb

@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Struktury (struct)\bin\Debug\Struktury (struct).exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Struktury (struct)\bin\Debug\Struktury (struct).exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Struktury (struct)\bin\Debug\Struktury (struct).pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Struktury (struct)\obj\Debug\Struktury (struct).csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Struktury (struct)\obj\Debug\Struktury (struct).csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Struktury (struct)\obj\Debug\Struktury (struct).csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Struktury (struct)\obj\Debug\Struktury (struct).exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Struktury (struct)\obj\Debug\Struktury (struct).pdb

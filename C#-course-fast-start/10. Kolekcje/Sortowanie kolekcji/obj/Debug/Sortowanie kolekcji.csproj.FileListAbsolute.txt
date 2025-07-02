@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\Sortowanie kolekcji\bin\Debug\Sortowanie kolekcji.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\Sortowanie kolekcji\bin\Debug\Sortowanie kolekcji.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\Sortowanie kolekcji\bin\Debug\Sortowanie kolekcji.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\Sortowanie kolekcji\obj\Debug\Sortowanie kolekcji.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\Sortowanie kolekcji\obj\Debug\Sortowanie kolekcji.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\Sortowanie kolekcji\obj\Debug\Sortowanie kolekcji.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\Sortowanie kolekcji\obj\Debug\Sortowanie kolekcji.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\10. Kolekcje\Sortowanie kolekcji\obj\Debug\Sortowanie kolekcji.pdb

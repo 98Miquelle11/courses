@@ -1,0 +1,16 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Zwracanie wartości\bin\Debug\Zwracanie wartości.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Zwracanie wartości\bin\Debug\Zwracanie wartości.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Zwracanie wartości\bin\Debug\Zwracanie wartości.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Zwracanie wartości\obj\Debug\Zwracanie wartości.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Zwracanie wartości\obj\Debug\Zwracanie wartości.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Zwracanie wartości\obj\Debug\Zwracanie wartości.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Zwracanie wartości\obj\Debug\Zwracanie wartości.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\7. Funkcje (metody)\Zwracanie wartości\obj\Debug\Zwracanie wartości.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Zwracanie wartości\obj\Debug\Zwracanie wartości.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Zwracanie wartości\obj\Debug\Zwracanie wartości.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Zwracanie wartości\obj\Debug\Zwracanie wartości.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Zwracanie wartości\obj\Debug\Zwracanie wartości.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Zwracanie wartości\obj\Debug\Zwracanie wartości.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Zwracanie wartości\bin\Debug\Zwracanie wartości.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Zwracanie wartości\bin\Debug\Zwracanie wartości.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Zwracanie wartości\bin\Debug\Zwracanie wartości.pdb

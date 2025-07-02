@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory logiczne\bin\Debug\Operatory logiczne.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory logiczne\bin\Debug\Operatory logiczne.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory logiczne\bin\Debug\Operatory logiczne.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory logiczne\obj\Debug\Operatory logiczne.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory logiczne\obj\Debug\Operatory logiczne.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory logiczne\obj\Debug\Operatory logiczne.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory logiczne\obj\Debug\Operatory logiczne.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\4. Operatory\Operatory logiczne\obj\Debug\Operatory logiczne.pdb

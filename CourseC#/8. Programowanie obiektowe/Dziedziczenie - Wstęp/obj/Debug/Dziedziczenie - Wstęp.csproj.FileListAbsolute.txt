@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Dziedziczenie - Wstęp\bin\Debug\Dziedziczenie - Wstęp.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Dziedziczenie - Wstęp\bin\Debug\Dziedziczenie - Wstęp.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Dziedziczenie - Wstęp\bin\Debug\Dziedziczenie - Wstęp.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Dziedziczenie - Wstęp\obj\Debug\Dziedziczenie - Wstęp.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Dziedziczenie - Wstęp\obj\Debug\Dziedziczenie - Wstęp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Dziedziczenie - Wstęp\obj\Debug\Dziedziczenie - Wstęp.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Dziedziczenie - Wstęp\obj\Debug\Dziedziczenie - Wstęp.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\8. Programowanie obiektowe\Dziedziczenie - Wstęp\obj\Debug\Dziedziczenie - Wstęp.pdb

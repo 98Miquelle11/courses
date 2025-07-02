@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Przeciążanie nazw funkcji\bin\Debug\Przeciążanie nazw funkcji.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Przeciążanie nazw funkcji\bin\Debug\Przeciążanie nazw funkcji.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Przeciążanie nazw funkcji\bin\Debug\Przeciążanie nazw funkcji.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Przeciążanie nazw funkcji\obj\Debug\Przeciążanie nazw funkcji.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Przeciążanie nazw funkcji\obj\Debug\Przeciążanie nazw funkcji.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Przeciążanie nazw funkcji\obj\Debug\Przeciążanie nazw funkcji.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Przeciążanie nazw funkcji\obj\Debug\Przeciążanie nazw funkcji.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Przeciążanie nazw funkcji\obj\Debug\Przeciążanie nazw funkcji.pdb

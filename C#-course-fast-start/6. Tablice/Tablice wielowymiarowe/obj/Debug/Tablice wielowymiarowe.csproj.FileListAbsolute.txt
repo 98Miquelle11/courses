@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice wielowymiarowe\bin\Debug\Tablice wielowymiarowe.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice wielowymiarowe\bin\Debug\Tablice wielowymiarowe.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice wielowymiarowe\bin\Debug\Tablice wielowymiarowe.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice wielowymiarowe\obj\Debug\Tablice wielowymiarowe.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice wielowymiarowe\obj\Debug\Tablice wielowymiarowe.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice wielowymiarowe\obj\Debug\Tablice wielowymiarowe.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice wielowymiarowe\obj\Debug\Tablice wielowymiarowe.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Tablice wielowymiarowe\obj\Debug\Tablice wielowymiarowe.pdb

@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyjątki - własne wyjątki\bin\Debug\Wyjątki - własne wyjątki.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyjątki - własne wyjątki\bin\Debug\Wyjątki - własne wyjątki.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyjątki - własne wyjątki\bin\Debug\Wyjątki - własne wyjątki.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyjątki - własne wyjątki\obj\Debug\Wyjątki - własne wyjątki.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyjątki - własne wyjątki\obj\Debug\Wyjątki - własne wyjątki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyjątki - własne wyjątki\obj\Debug\Wyjątki - własne wyjątki.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyjątki - własne wyjątki\obj\Debug\Wyjątki - własne wyjątki.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wyjątki - własne wyjątki\obj\Debug\Wyjątki - własne wyjątki.pdb

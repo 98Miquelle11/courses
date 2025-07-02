@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Argumenty nazwane\bin\Debug\Argumenty nazwane.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Argumenty nazwane\bin\Debug\Argumenty nazwane.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Argumenty nazwane\bin\Debug\Argumenty nazwane.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Argumenty nazwane\obj\Debug\Argumenty nazwane.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Argumenty nazwane\obj\Debug\Argumenty nazwane.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Argumenty nazwane\obj\Debug\Argumenty nazwane.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Argumenty nazwane\obj\Debug\Argumenty nazwane.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\7. Funkcje (metody)\Argumenty nazwane\obj\Debug\Argumenty nazwane.pdb

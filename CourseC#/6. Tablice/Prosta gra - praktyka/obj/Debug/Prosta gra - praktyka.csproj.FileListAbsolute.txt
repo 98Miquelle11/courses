@@ -1,0 +1,8 @@
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Prosta gra - praktyka\bin\Debug\Prosta gra - praktyka.exe.config
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Prosta gra - praktyka\bin\Debug\Prosta gra - praktyka.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Prosta gra - praktyka\bin\Debug\Prosta gra - praktyka.pdb
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Prosta gra - praktyka\obj\Debug\Prosta gra - praktyka.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Prosta gra - praktyka\obj\Debug\Prosta gra - praktyka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Prosta gra - praktyka\obj\Debug\Prosta gra - praktyka.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Prosta gra - praktyka\obj\Debug\Prosta gra - praktyka.exe
+C:\Users\Michał\Desktop\C# nauka\Kurs youtube\Wersja płatna\6. Tablice\Prosta gra - praktyka\obj\Debug\Prosta gra - praktyka.pdb

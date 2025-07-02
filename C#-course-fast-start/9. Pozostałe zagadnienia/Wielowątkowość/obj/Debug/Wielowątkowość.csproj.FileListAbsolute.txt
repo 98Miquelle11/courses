@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wielowątkowość\bin\Debug\Wielowątkowość.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wielowątkowość\bin\Debug\Wielowątkowość.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wielowątkowość\bin\Debug\Wielowątkowość.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wielowątkowość\obj\Debug\Wielowątkowość.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wielowątkowość\obj\Debug\Wielowątkowość.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wielowątkowość\obj\Debug\Wielowątkowość.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wielowątkowość\obj\Debug\Wielowątkowość.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Wielowątkowość\obj\Debug\Wielowątkowość.pdb

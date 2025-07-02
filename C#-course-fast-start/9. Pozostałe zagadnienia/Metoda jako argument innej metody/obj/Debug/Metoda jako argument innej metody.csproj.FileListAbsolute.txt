@@ -1,8 +1,0 @@
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metoda jako argument innej metody\bin\Debug\Metoda jako argument innej metody.exe.config
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metoda jako argument innej metody\bin\Debug\Metoda jako argument innej metody.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metoda jako argument innej metody\bin\Debug\Metoda jako argument innej metody.pdb
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metoda jako argument innej metody\obj\Debug\Metoda jako argument innej metody.csproj.AssemblyReference.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metoda jako argument innej metody\obj\Debug\Metoda jako argument innej metody.csproj.SuggestedBindingRedirects.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metoda jako argument innej metody\obj\Debug\Metoda jako argument innej metody.csproj.CoreCompileInputs.cache
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metoda jako argument innej metody\obj\Debug\Metoda jako argument innej metody.exe
-C:\Users\Michał\Desktop\C# nauka\Kurs youtube\9. Pozostałe zagadnienia\Metoda jako argument innej metody\obj\Debug\Metoda jako argument innej metody.pdb
