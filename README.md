@@ -50,3 +50,27 @@ Completed course. This .pdf file is a certificate of completion. This course cov
    * Cisco tools.
    
 ### [Introduction to Data Science by Cisco Networking Academy](https://www.netacad.com/courses/introduction-data-science?courseLang=en-US)
+Completed course. This .pdf file is a certificate of completion. This course covered the following sections:
+1. Experience Analytics:
+
+   * What is data and where does it come from,
+   * Ways to visualize data,
+   * Data types and how to select relevant data,
+   * Desired data depending on the business.
+
+2. Data Collection and Storage:
+
+   * Defining Big Data and its characteristics,
+   * The potencial benefits of Data growth,
+   * Data Pipelines (Ingestion → Transformation → Storage).
+
+3. Artificial Intelligence and Machine Learning:
+
+   * What is AI, where do we use it, AI tools,
+   * Defining ML and its types,
+   * Understanding the Machine Learning process, training machines to recognize patterns.
+
+4. Embarking on Your Career in Data Analytics:
+
+   * Roles (Data Analyst, Data Engineer and Data Scientist), job market, useful tools and desired skills,
+   * How to prepare your project portfolio.
